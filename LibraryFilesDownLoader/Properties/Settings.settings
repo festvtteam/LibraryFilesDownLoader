@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LibraryFilesDownLoader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="plmAdress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">plm-united2</Value>
+    </Setting>
+    <Setting Name="plmPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8090</Value>
+    </Setting>
+    <Setting Name="plmHttpHandler" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LibraryFilesDownLoader</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
