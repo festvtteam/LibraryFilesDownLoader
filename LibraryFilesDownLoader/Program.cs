@@ -38,7 +38,9 @@ namespace LibraryFilesDownLoader
             catch (System.Net.WebException e)
             {
                 MessageBox.Show(e.Message);
+                return;
             }
+
 
             WebResponse response = httpRequest.GetResponse();
             httpResultStream = response.GetResponseStream();
